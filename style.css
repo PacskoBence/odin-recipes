@@ -1,0 +1,27 @@
+body
+{
+    font-family: 'Blaka';
+    text-align: center;
+    background-image: url(https://cdn.pixabay.com/photo/2017/10/26/21/55/wood-2892621_1280.jpg);
+    color:#ff4040;
+    font-size:50px;
+    text-shadow: 2px 2px black;
+    background-repeat:round;
+}
+a:link
+{
+    text-decoration: none;
+}
+a:visited
+{
+    color:#32cd32;
+}
+a:hover
+{
+    color:#ff4040;
+}
+
+ul
+{
+    list-style: none;
+}
